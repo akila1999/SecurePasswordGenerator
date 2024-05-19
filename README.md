@@ -7,3 +7,18 @@ A React-based web application for secure password generation with user authentic
 
 
 
+Description
+This project is a secure password generator and authentication system using React and Auth0. It allows users to register, log in, and generate secure passwords with customizable length and character types. The application ensures that only authenticated users can access the password generation functionality.
+
+Features
+User registration with form validation
+User login and logout using Auth0
+Secure password generation with customizable length and character types
+Responsive design
+Technologies Used
+React
+Auth0 for authentication
+Axios for API requests
+FontAwesome for icons
+
+
